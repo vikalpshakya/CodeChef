@@ -1,6 +1,10 @@
+// August Long 2023 Division 4 Contest
+
 #include <iostream>
 using namespace std;
+
 // Time complexity: O(1), Space complexity: O(1)
+
 int main() {
     int t;
     cin >> t;
