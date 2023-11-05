@@ -1,4 +1,4 @@
-// STAR 100D CONTEST
+// STAR 100D CONTEST 
 #include <iostream>
 using namespace std;
 
